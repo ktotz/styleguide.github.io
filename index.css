@@ -5,6 +5,9 @@ html, body {
 .navigation li{
     display: inline;
     margin-right: 50px;
+}
+
+.navigation li a {
     text-decoration: none;
 }
 
