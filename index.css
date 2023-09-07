@@ -2,6 +2,7 @@ html, body {
     background-color: gray;
 }
 
-.navigation {
-    display: inline;    
+.navigation li{
+    display: inline;
+    text-align: right;    
 }
