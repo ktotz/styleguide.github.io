@@ -1,3 +1,7 @@
+html, body {
+    background-color: gray;
+}
+
 .navigation li{
     display: inline;
     margin-right: 50px;
@@ -11,7 +15,6 @@ h1 {
 h2 {
     display: block;
     font-weight: bold;
-
 }
 
 .container {
@@ -28,6 +31,20 @@ h2 {
     background-color: #2d5dcc;
     color: white;
 }
+
+.pink {
+    background-color: #d957d9;
+    color: #000;
+}
+  
+.mint-green {
+    background-color: #4fe0b0;
+}
+  
+.beige {
+    background-color: #efd9ca;
+}
+
 
 .color-panel {
     display: inline-block;
