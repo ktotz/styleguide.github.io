@@ -8,6 +8,6 @@ html, body {
     text-decoration: none;
 }
 
-li {
-    text-align: -webkit-match-parent;
+h1 {
+    text-align: center;
 }
