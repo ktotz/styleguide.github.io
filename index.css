@@ -4,5 +4,10 @@ html, body {
 
 .navigation li{
     display: inline;
-    text-align: right;    
+    margin-right: 50px;
+    text-decoration: none;
+}
+
+li {
+    text-align: -webkit-match-parent;
 }
