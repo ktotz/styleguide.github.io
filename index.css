@@ -45,6 +45,39 @@ h2 {
     background-color: #efd9ca;
 }
 
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.nunito-sans {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.source-code-pro {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
 
 .color-panel {
     display: inline-block;
@@ -53,7 +86,6 @@ h2 {
     margin: 20px auto;
     min-height: 100px;
 }
-
 
 div {
     display: block;
